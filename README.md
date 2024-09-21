@@ -32,4 +32,4 @@ I'm an enthusiastic Machine Learning Developer with a passion for leveraging dat
 
 🌐 **Portfolio:**
 
-Check out my portfolio for more details : [abhinaba](abhinaba.vercel.app)
+Check out my portfolio for more details : [abhinaba](https://abhinaba.vercel.app/)
